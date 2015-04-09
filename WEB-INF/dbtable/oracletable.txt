@@ -1,0 +1,5 @@
+create table cust(userid varchar2(20),pass varchar2(20),loginstatus varchar2(2))
+/
+create table bank(cardno varchar2(20),name varchar2(20))
+/
+stop
